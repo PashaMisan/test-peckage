@@ -6,6 +6,6 @@ class HelloWorld
 {
 	public function helloworld()
 	{
-		return $this->helloworld();
+		return 'hello world';
 	}
 }
